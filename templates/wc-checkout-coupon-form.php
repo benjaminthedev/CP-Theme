@@ -39,4 +39,6 @@ if ( ! wc_coupons_enabled() ) {
 </form>
 
 
-	<h3><i class="fas fa-exclamation-circle"></i> Your order payment will <strong>NOT</strong> be processed until your artwork filled are received and the virtual artwork proof is confirmed.</h3>
+	<!-- <h3><i class="fas fa-exclamation-circle"></i> Your order payment will <strong>NOT</strong> be processed until your artwork filled are received and the virtual artwork proof is confirmed.</h3> -->
+
+	<h3><i class="fas fa-exclamation-circle"></i> Your card <strong>will NOT</strong> be charged immediately.  One of our representatives will contact you shortly after placing your order to confirm your details before processing your payment.</h3>
