@@ -25,3 +25,21 @@ jQuery(document).ready(function ($) {
 });
 
 console.log('Hello JS');
+
+// const clickSearch = document.getElementById('product-search-form-0');
+
+
+// const second = document.querySelector('input#product-search-field-0');
+// const mouseAway = document.querySelector('product-search-form');
+// const mouseResults = document.getElementById('product-search-results-0');
+
+// second.addEventListener('keydown', (e) => {
+//     document.querySelector('nav.fusion-main-menu').style.display = "none"
+// });
+
+// second.addEventListener('mouseout', (e) => {
+//     document.querySelector('nav.fusion-main-menu').style.display = "block"
+// });
+// mouseResults.addEventListener('mouseout', (e) => {
+//     document.querySelector('nav.fusion-main-menu').style.display = "block"
+// });

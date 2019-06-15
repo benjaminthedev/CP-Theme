@@ -212,6 +212,10 @@ li#field_3_19 {
 
 */
 
+nav.fusion-main-menu{
+	transition: 0.5;
+}
+
 /* Woo Cat Page */
 
 /*-- Remove Original Badge From Theme --*/
@@ -225,6 +229,15 @@ li.product-grid-view:hover {
 	box-shadow: 0 0 10px #ccc;
 }
 /*-- Custom Badges --*/
+
+.yith-wcbm-badge-16956:before{
+	content: "\f058 ";
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+	margin-right: 4px;
+}
 
 .yith-wcbm-badge-13776:before {
 	content: "\f14a ";
